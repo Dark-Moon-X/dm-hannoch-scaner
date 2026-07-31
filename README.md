@@ -453,6 +453,7 @@ author: Hannoch
 
 · https://github.com/RASSec/pentestEr_Fully-automatic-scanner(定向完全自动渗透测试)
 
+· https://github.com/ASCIT31/Dark-Moon(开源AI自主渗透测试框架，内置MCP服务器，覆盖Web/API/Active Directory/Kubernetes)
 · https://github.com/3xp10it/3xp10it(自动渗透测试框架)
 
 · https://github.com/Lcys/lcyscan(一个插件扫描器，插件支持)
